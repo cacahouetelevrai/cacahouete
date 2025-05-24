@@ -1,0 +1,16 @@
+body {
+ background-image: url('images/fond.jpeg');   
+ background-size: cover;
+}
+
+.fond {
+border: outset;
+background: #F0F0F0;
+}
+
+
+
+.pp {
+    border-radius: 180px;
+    border: outset red;
+}
